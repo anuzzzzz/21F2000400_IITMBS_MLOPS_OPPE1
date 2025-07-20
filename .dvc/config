@@ -1,0 +1,5 @@
+[core]
+    remote = gcs_storage
+['remote "gcs_storage"']
+    url = gs://mlops-stock-21f2000400-dvc-storage
+    projectname = mlops-stock-21f2000400

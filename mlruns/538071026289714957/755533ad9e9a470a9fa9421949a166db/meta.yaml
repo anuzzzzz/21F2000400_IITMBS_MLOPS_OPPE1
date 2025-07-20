@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jupyter/21F2000400_IITMBS_MLOPS_OPPE1/mlruns/538071026289714957/755533ad9e9a470a9fa9421949a166db/artifacts
+end_time: 1753015846326
+entry_point_name: ''
+experiment_id: '538071026289714957'
+lifecycle_stage: active
+run_id: 755533ad9e9a470a9fa9421949a166db
+run_name: nervous-dog-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753015689902
+status: 3
+tags: []
+user_id: jupyter

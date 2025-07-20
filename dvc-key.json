@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mlops-stock-21f2000400",
+  "private_key_id": "1b79f440138d8c46e4373dc50aa46225be757d9d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPnpwIHCm9AD7M\nSFK50qRqrjWFXSQiZoYtdiLPNj5pFE2eP5Bbi7M+PJ2cczmxX10nuYh3U/lKZp32\nIILq15YayR/76X8E80xBUHVfZN0IbokXPM4MAdyAkPF+s08q2H8Hs5+enIEeyVhD\nmqcIxLKR/IYFa/WwtSNAk5WOzzF6Mh91JoIvXf+KJuYNHm5KxFisRLtb/4LvWtCV\nCUQdBViUE1vlVEDatPOuy7Mw80BxBIQhmFw+xiEBf84aWLhka1wMQBlpl6hqir/A\ngdbQAAsNCv9aIMMqNZ/2OiNBw44YRAxRHQfGH9/cBhfTi9R1C1L5VE3Jg3evUfMu\nTINk8OqXAgMBAAECggEAJQfeb3DjiioAByg2vFcFscQNZL+pS31n51zoiMkRuoJT\nqRP2osQYiVmTwf0ryQIvwMhj2XC7fGWNISMs3mSL/YgSSR/hcmNRLB4UxW36V+w4\nSNeSwSHRuwykV+jf5so/prq302vDFy8PJQ9BNk+RQ3b7D3bQuKlb15C2JUZjGYBk\nGwAeHMYsXBdcXF6J90nAGKhhy1J+79FMLs5maXmg0SHkkiDF0Ab9lqzhmTF5HyQy\nIs7B88IwdClC6zI9Mmxb/nDuz6EpNvAhMtUTK50Ep8jEx72T0z49yxlynmsf46Np\nnMxqYYV6EnXzrJ/+w34te6WlCMqJYtNkJwqS7WPbYQKBgQDC/VoB9ZyTUcagggly\niFAfn/lk5EontGf8q54iAy8AThab2V10rWfpryS4unLenKGhwk/IEQc7k47xYvhJ\nwNO31Mm9Ci7G19g/T9mvj/kLoWJfYdMCwMtQKVYAPFoNE8ikjBXRnJIstpfmbNuZ\nuP6e0c6lCV3vAsR5JPbpnnegKQKBgQC8joUg+x9NtGVa6JKKDGORRhkvckfKJttB\nOwlO4qlQv2Lspa7eGiO3aEymzhS5NDQVI4y9th8QPL0nq5KaI5V74D8bISUO5kXo\nDLHhIHPUStKkQ8Yyz1802AXGAP4G9bTdTEjSgia31/RTmbe5AAb+HjP96mu8KZYw\nKOz6KIqMvwKBgHhTU0nGQRr/6ax+0kmlKJx7YbEK11/tCgZ3+RtQD58GkRkXZ35q\ny6b+95AvLleFHJDvkcAKEgaHpjv7MPCCV6QnYV6QfBEkfUOEiPa3x52Pt17YxRf7\n1Prgpzt6Aq/zN2ujLoutLN7+xnnhTxpreGSVYAmj4B1v/cIsN1ou+e8RAoGBALXh\nA6l8kgVyLRIzpKZkrOZEp6aMpZLpSDTzrVbabFfnRJTgfHzg2fLgOI/t2S+Mm3CI\nigm00uHmtM6/QPpNuLN062pP3l8w392l4S83DoOIaQbqGRSJ01w1w9vquR4dhAiy\nvMvRn2dWd+bsL7vTuusEV0JmDOXDd4uc7nmfAYYhAoGAbghXbjnuA33tjE5f7C4I\nsFCNMUIHyEJ38WXIVbKFG4AA2iKaUBxi1E6pHBMVpRKd69tuCaXK71uh/aOTO4yY\n/2ZPiYTGGawWRYzVHqAXThJ0f/knDahHH2Vq4sjC3+levkPEYlr/9gBMZLdaxMKe\nAcVExf8ZEhmrfgP72IVVt6k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dvc-service-account@mlops-stock-21f2000400.iam.gserviceaccount.com",
+  "client_id": "113353541243129183910",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dvc-service-account%40mlops-stock-21f2000400.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

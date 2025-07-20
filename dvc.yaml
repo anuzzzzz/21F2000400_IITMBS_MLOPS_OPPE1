@@ -1,0 +1,33 @@
+stages:
+  data_prep_v0:
+    cmd: python3 src/data_preprocessing.py 0
+    deps:
+    - data/v0/
+    - src/data_preprocessing.py
+    outs:
+    - data/processed/processed_v0.csv
+
+  train_v0:
+    cmd: python3 src/model_training.py 0
+    deps:
+    - data/processed/processed_v0.csv
+    - src/model_training.py
+    metrics:
+    - metrics_v0.json
+
+  data_prep_v1:
+    cmd: python3 src/data_preprocessing.py 1
+    deps:
+    - data/v1/
+    - data/processed/processed_v0.csv
+    - src/data_preprocessing.py
+    outs:
+    - data/processed/processed_v1.csv
+
+  train_v1:
+    cmd: python3 src/model_training.py 1
+    deps:
+    - data/processed/processed_v1.csv
+    - src/model_training.py
+    metrics:
+    - metrics_v1.json

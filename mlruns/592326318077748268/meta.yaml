@@ -1,0 +1,6 @@
+artifact_location: file:///home/jupyter/21F2000400_IITMBS_MLOPS_OPPE1/mlruns/592326318077748268
+creation_time: 1753015929586
+experiment_id: '592326318077748268'
+last_update_time: 1753015929586
+lifecycle_stage: active
+name: stock_prediction_v1

@@ -1,0 +1,10 @@
+artifact_location: file:///home/jupyter/21F2000400_IITMBS_MLOPS_OPPE1/mlruns/592326318077748268/models/m-57aa13dd19b44f4f9d8a0b78cebc6b6d/artifacts
+creation_timestamp: 1753016294731
+experiment_id: '592326318077748268'
+last_updated_timestamp: 1753016299720
+model_id: m-57aa13dd19b44f4f9d8a0b78cebc6b6d
+model_type: null
+name: model
+source_run_id: 2f374b5729814da9b8ac765df908f299
+status: 2
+status_message: null

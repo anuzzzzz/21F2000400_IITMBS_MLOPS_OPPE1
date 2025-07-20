@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jupyter/21F2000400_IITMBS_MLOPS_OPPE1/mlruns/538071026289714957/adce9a17a63946eba2ca8989def86c60/artifacts
+end_time: 1753015536479
+entry_point_name: ''
+experiment_id: '538071026289714957'
+lifecycle_stage: active
+run_id: adce9a17a63946eba2ca8989def86c60
+run_name: selective-horse-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753013733525
+status: 4
+tags: []
+user_id: jupyter

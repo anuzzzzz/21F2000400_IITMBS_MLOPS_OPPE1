@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jupyter/21F2000400_IITMBS_MLOPS_OPPE1/mlruns/592326318077748268/2f374b5729814da9b8ac765df908f299/artifacts
+end_time: 1753016299796
+entry_point_name: ''
+experiment_id: '592326318077748268'
+lifecycle_stage: active
+run_id: 2f374b5729814da9b8ac765df908f299
+run_name: clean-skink-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753015930029
+status: 3
+tags: []
+user_id: jupyter
